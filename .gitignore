@@ -19,5 +19,7 @@ vignettes/*.pdf
 .httr-oauth
 .Rproj.user
 
-# JUNK
+# stuff
 *.ini
+IRT-Shiny-App/deploy.R
+IRT-Shiny-App/rsconnect
